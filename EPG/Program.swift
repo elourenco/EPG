@@ -2,7 +2,7 @@
 //  Program.swift
 //  EPG
 //
-//  Created by Adnan Aftab on 2/14/15.
+//  Created by Eduardo Lourenço on 10/29/17.
 //  Copyright (c) 2015 CX. All rights reserved.
 //
 
